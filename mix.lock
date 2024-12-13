@@ -1,0 +1,5 @@
+%{
+  "bacstack": {:git, "https://github.com/bacnet-ex/bacstack", "fa2ae96b600360ac442b86f75e159a0e736fcbf7", [tag: "master"]},
+  "cidr": {:hex, :cidr, "1.2.0", "a872a23d74ae9aaae1a3d677515e7ab0e86378fff30e02e6e005ebdc712a9398", [:mix], [], "hexpm", "ec053c45add51a798497e2ff329c45cc3ead9b390b8d712dec04eb7b20801c11"},
+  "codepagex": {:hex, :codepagex, "0.1.9", "430d10a3eee3a170e6e472e456f1a61f851e0b55ecfcc00a0f95938c3acb5a02", [:mix], [], "hexpm", "b7145dd1fdb9fcc33c53e9234040a211b5d46f0fc93d238232e6e72aa5d1c049"},
+}
